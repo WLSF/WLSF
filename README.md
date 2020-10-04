@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I'm a Software Engineer since 2011, I've been working with Backend, Frontend and had a couple of experiences with DevOps. Currently passionate about working with Backend development using Elixir/Phoenix.<br/>
+I'm a Software Engineer since 2011, I've been working with Backend, Frontend and had a couple of experiences with DevOps. Currently passionate about working with Backend development using Elixir/Phoenix. (You can call me Software Alchemist :purple_heart:)<br/>
 I love to play multiplayer games (CS:GO, Dota 2, LoL, PUBG, Fortnite, Warzone).<br/>
 I have 2 cats 🐈 (Ruby and Banguela).
 
