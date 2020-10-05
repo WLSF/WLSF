@@ -20,3 +20,6 @@ I have 2 cats 🐈 (Ruby and Banguela).
 ### Contact:
 
 You can find me on <a href="https://twitter.com/frantz_willian"><img src="https://raw.githubusercontent.com/WLSF/WLSF/main/twitter.png" width="15"></img></a> and <a href="https://www.linkedin.com/in/willianfrantz/"><img src="https://raw.githubusercontent.com/WLSF/WLSF/main/linkedin.png" width="15"></img></a>
+
+
+![](https://komarev.com/ghpvc/?username=WLSF)
